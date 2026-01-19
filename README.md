@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hola 👋  soy Erick ✨ </h1> 
+<br>
+<h2>Sobre mi 😃</h2>
+<!--Intro start-->
 
-<!--
-**ErickMarquezGonzalez/ErickMarquezGonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+🎓 Estudiante de Ingeniería en Sistemas Computacionales
 
-Here are some ideas to get you started:
+🤓 Joven obsesionado con entender todo sobre programación, IA, web y ciberseguridad
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Autodidacta por decisión propia — aprender nunca termina
+
+🚀 Emprendedor por naturaleza — siempre construyendo proyectos personales y probando ideas
+
+✨ Disciplina, mejora constante, curiosidad, resiliencia y creatividad como filosofía
+
+💻 En el proceso de convertirme en alguien que entiende, crea y comparte valor en el mundo tech
+
+😌 Lo que viene… todavía se está compilando
+<!--Intro end-->
+  </p>
+<br>
+
+<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py,dotnet,css,html,js,git,github,vscode,linux&perline=12" />
+  </a>
+</p>
+<br>
