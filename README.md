@@ -6,17 +6,19 @@
 <p align="left">
 🎓 Estudiante de Ingeniería en Sistemas Computacionales
 
-🤓 Joven obsesionado con entender todo sobre programación, IA, web y ciberseguridad
+🧠 Pensando en sistemas, estrategias y soluciones
 
-📚 Autodidacta por decisión propia — aprender nunca termina
+💻 Programación | IA | Web | Ciberseguridad
 
-🚀 Emprendedor por naturaleza — siempre construyendo proyectos personales y probando ideas
+📚 Autodidacta por decisión — el conocimiento es una ventaja estratégica
 
-✨ Disciplina, mejora constante, curiosidad, resiliencia y creatividad como filosofía
+⚙️ Construyendo proyectos, probando ideas y optimizando procesos
 
-💻 En el proceso de convertirme en alguien que entiende, crea y comparte valor en el mundo tech
+📈 Disciplina, lógica y mejora constante
 
-😌 Lo que viene… todavía se está compilando
+🌐 Aprendiendo a entender los sistemas… para saber cómo dominarlos
+
+⌛ Todo es parte del plan
 <!--Intro end-->
   </p>
 <br>
